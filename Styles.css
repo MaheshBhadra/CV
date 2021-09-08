@@ -1,0 +1,35 @@
+body
+{
+    background-color:#EAF6F6;
+}
+hr
+{
+    background-color: white;
+    border-style: dotted none none;
+    border-radius: 0;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 100%;
+}
+
+h1
+{
+    color: #66BFBF;
+    font-family: cursive;
+}
+h3
+{
+    color: #66BFBF;
+    font-family: cursive;
+}
+a
+{
+    color:#4A403A;
+    font-family: 'Courier New', Courier, monospace;
+}
+img
+{
+    
+    width: 35%;
+}
